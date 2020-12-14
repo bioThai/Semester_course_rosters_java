@@ -1,0 +1,24 @@
+COP2222
+File Structures
+
+001
+Smith
+1111-2222
+M W
+11:00AM - 12:15PM
+NW N116
+
+0M1
+Jones
+3333-4444
+N/A
+N/A
+Web *C-OMP
+
+EM1
+Brown
+7777-8888
+N/A
+N/A
+Web *C-OMP
+
